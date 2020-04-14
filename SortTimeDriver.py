@@ -64,7 +64,8 @@ while menu != "EXIT":
                   "\n1. 20,000 numbers"
                   "\n2. 50,000 numbers"
                   "\n3. 100,000 numbers"
-                  "\n4. Custom Value"
+                  "\nor "
+                  "\nEnter a Custom Value"
                   "\n>>>")
 
     while menu2 != "Hw":
