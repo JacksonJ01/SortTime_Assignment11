@@ -61,6 +61,7 @@ while menu != "EXIT":
     sleep(.5)
     # The user can choose between 'preset' values, or they can enter their own
     menu2 = input("\nHow many numbers would you like to see this method sort?"
+                  "\nType 1, 2, or 3 or enter your own"
                   "\n1. 20,000 numbers"
                   "\n2. 50,000 numbers"
                   "\n3. 100,000 numbers"
